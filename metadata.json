@@ -1,0 +1,6 @@
+{
+  "name": "Peribahasa Shooting Challenge 3D",
+  "description": "Permainan tembak-menembak arked 3D interaktif untuk murid Tahun 4 belajar Peribahasa Bahasa Melayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
